@@ -1,2 +1,2 @@
-let a = 12
+let a = 1244
 console.log(a)
