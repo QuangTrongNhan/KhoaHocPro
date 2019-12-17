@@ -1,0 +1,33 @@
+#navbar {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-top: 24px;
+    width: 1440px;
+    height: 106px;
+}
+
+#top-mid {
+    display: flex;
+    text-align: center;
+}
+
+.button {
+    padding: 16px 8px;
+}
+
+.button p {
+    width: 195px;
+    height: 56.91px;
+    background: #1978D0;
+    border-radius: 99px;
+}
+
+.button p {
+    color: white;
+    text-align: center;
+}
+
+#top-mid p {
+    margin-right: 100px;
+}
